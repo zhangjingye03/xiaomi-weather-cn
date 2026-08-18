@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Xiaomi Weather China",
+        "description": "Enter a display name and the coordinates for this weather location.",
+        "data": {
+          "name": "Name",
+          "latitude": "Latitude",
+          "longitude": "Longitude"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not retrieve weather for this location.",
+      "invalid_location": "This location is invalid."
+    },
+    "abort": {
+      "already_configured": "This Xiaomi Weather location is already configured."
+    }
+  }
+}

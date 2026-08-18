@@ -1,0 +1,11 @@
+{
+  "domain": "xiaomi_weather",
+  "name": "Xiaomi Weather China",
+  "codeowners": ["@zhangjingye03"],
+  "config_flow": true,
+  "documentation": "https://github.com/zhangjingye03/xiaomi-weather-cn",
+  "issue_tracker": "https://github.com/zhangjingye03/xiaomi-weather-cn/issues",
+  "iot_class": "cloud_polling",
+  "integration_type": "service",
+  "version": "0.1.0"
+}
